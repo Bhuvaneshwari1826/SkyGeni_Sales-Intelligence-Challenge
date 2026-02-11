@@ -1,0 +1,371 @@
+deal_id,deal_amount,industry,region,sales_rep_id,lead_source,sales_cycle_days,risk_score,risk_tier
+D00005,45203,HealthTech,APAC,rep_2,Outbound,87,57.5873004769475,High Risk
+D00006,5714,HealthTech,APAC,rep_12,Inbound,19,47.20844029549461,Medium Risk
+D00008,8525,HealthTech,APAC,rep_3,Referral,105,61.67418079488949,High Risk
+D00024,19062,HealthTech,North America,rep_19,Inbound,30,50.65972377564678,High Risk
+D00035,13753,FinTech,North America,rep_11,Outbound,15,56.739175172931574,High Risk
+D00044,89616,Ecommerce,India,rep_11,Referral,22,46.3427292893261,Medium Risk
+D00048,22560,FinTech,APAC,rep_16,Referral,60,51.6814846528798,High Risk
+D00049,17883,Ecommerce,India,rep_9,Referral,113,53.12635578757769,High Risk
+D00056,17272,EdTech,North America,rep_14,Partner,94,60.12640125113631,High Risk
+D00080,18612,EdTech,India,rep_17,Referral,21,55.13510532513825,High Risk
+D00082,96011,Ecommerce,India,rep_5,Partner,7,34.73419459509209,Medium Risk
+D00096,5255,EdTech,North America,rep_1,Partner,93,62.992873989672304,High Risk
+D00102,7429,HealthTech,Europe,rep_11,Outbound,112,61.62743645076338,High Risk
+D00109,19810,Ecommerce,APAC,rep_8,Referral,90,60.16885034890148,High Risk
+D00126,9118,SaaS,North America,rep_9,Inbound,87,56.71266022193768,High Risk
+D00139,3818,Ecommerce,APAC,rep_2,Referral,62,58.27000357059816,High Risk
+D00163,25958,HealthTech,India,rep_9,Inbound,79,52.335865268987234,High Risk
+D00170,19919,Ecommerce,North America,rep_2,Outbound,20,47.93705516712994,Medium Risk
+D00200,74950,HealthTech,North America,rep_8,Inbound,99,59.806066430228235,High Risk
+D00214,7793,EdTech,North America,rep_15,Referral,87,58.122029517736216,High Risk
+D00230,15212,EdTech,APAC,rep_5,Outbound,86,54.69493136307022,High Risk
+D00244,58986,HealthTech,APAC,rep_3,Outbound,65,50.56695841776248,High Risk
+D00257,64270,SaaS,India,rep_5,Inbound,34,55.642900003605256,High Risk
+D00264,36142,Ecommerce,APAC,rep_12,Outbound,34,53.42379707096823,High Risk
+D00274,33487,SaaS,North America,rep_8,Inbound,79,55.604387278805234,High Risk
+D00287,31015,FinTech,North America,rep_9,Outbound,58,50.52953326853584,High Risk
+D00318,15785,EdTech,APAC,rep_11,Referral,49,64.27716541826673,High Risk
+D00319,59384,EdTech,APAC,rep_25,Referral,96,60.539572463915206,High Risk
+D00324,7643,HealthTech,Europe,rep_2,Outbound,40,59.418253586220025,High Risk
+D00334,4444,EdTech,India,rep_7,Referral,94,53.597639963609225,High Risk
+D00339,88195,Ecommerce,Europe,rep_11,Referral,12,45.24707601154797,Medium Risk
+D00349,10996,EdTech,India,rep_15,Referral,100,63.20673512359818,High Risk
+D00357,59924,Ecommerce,APAC,rep_7,Inbound,18,54.956685654159465,High Risk
+D00371,68200,SaaS,Europe,rep_24,Outbound,35,55.37569334717792,High Risk
+D00387,6496,FinTech,APAC,rep_22,Outbound,103,58.81674258801773,High Risk
+D00406,83208,SaaS,North America,rep_20,Referral,107,66.72221206791323,High Risk
+D00424,30287,FinTech,North America,rep_20,Partner,86,53.09821440839719,High Risk
+D00437,52983,HealthTech,India,rep_7,Inbound,9,39.392298392561905,Medium Risk
+D00440,55705,SaaS,Europe,rep_5,Referral,48,57.779633702151656,High Risk
+D00452,11866,EdTech,North America,rep_6,Outbound,92,60.627022595294434,High Risk
+D00463,54840,FinTech,APAC,rep_24,Outbound,54,57.9936596312504,High Risk
+D00467,3971,SaaS,APAC,rep_25,Referral,99,40.576403261923225,Medium Risk
+D00484,11258,FinTech,North America,rep_23,Partner,83,63.48593932550772,High Risk
+D00496,8643,FinTech,Europe,rep_25,Referral,38,64.24697328801219,High Risk
+D00535,2511,SaaS,APAC,rep_23,Partner,23,62.26930375413632,High Risk
+D00536,71677,Ecommerce,India,rep_23,Referral,10,44.017458204049476,Medium Risk
+D00539,75797,SaaS,India,rep_15,Referral,65,56.97203611240226,High Risk
+D00551,12466,EdTech,India,rep_4,Outbound,62,58.16668416228188,High Risk
+D00553,33619,HealthTech,APAC,rep_12,Outbound,15,41.83234257250088,Medium Risk
+D00574,80845,FinTech,Europe,rep_9,Outbound,104,60.033898835366614,High Risk
+D00586,2199,EdTech,India,rep_6,Inbound,80,59.058977977170066,High Risk
+D00587,7658,EdTech,Europe,rep_14,Inbound,87,55.73409071189618,High Risk
+D00613,55580,SaaS,APAC,rep_4,Inbound,47,54.53152228628143,High Risk
+D00629,70152,EdTech,North America,rep_5,Referral,15,51.82080896346232,High Risk
+D00631,14165,HealthTech,APAC,rep_2,Outbound,22,47.88118711807721,Medium Risk
+D00639,12344,HealthTech,North America,rep_13,Inbound,115,59.286219185798636,High Risk
+D00651,19316,EdTech,APAC,rep_13,Inbound,101,57.44070817415214,High Risk
+D00653,61573,EdTech,North America,rep_2,Referral,120,48.49347107491017,Medium Risk
+D00683,8293,HealthTech,India,rep_1,Referral,93,61.51045672425468,High Risk
+D00684,19893,EdTech,India,rep_20,Inbound,91,59.41128140322996,High Risk
+D00697,58289,SaaS,India,rep_25,Inbound,33,60.77934698318295,High Risk
+D00719,31094,Ecommerce,North America,rep_11,Inbound,97,58.24782183331939,High Risk
+D00727,47886,FinTech,Europe,rep_10,Inbound,94,59.23543243562259,High Risk
+D00732,3451,HealthTech,India,rep_12,Outbound,83,45.49139219089545,Medium Risk
+D00754,19099,HealthTech,APAC,rep_11,Outbound,40,62.88868323360279,High Risk
+D00765,12278,Ecommerce,India,rep_12,Inbound,103,61.091076113643105,High Risk
+D00815,12072,Ecommerce,India,rep_22,Outbound,74,56.234914540958904,High Risk
+D00828,19917,SaaS,India,rep_1,Referral,106,56.0511981495059,High Risk
+D00879,4039,EdTech,APAC,rep_21,Inbound,108,49.32962257517767,Medium Risk
+D00905,5043,FinTech,North America,rep_4,Partner,55,52.08467536228936,High Risk
+D00923,30198,HealthTech,APAC,rep_20,Partner,8,56.66184353346087,High Risk
+D00931,74124,EdTech,Europe,rep_1,Partner,67,58.68581184410344,High Risk
+D00933,6914,HealthTech,India,rep_14,Referral,111,59.71284513698076,High Risk
+D00934,36891,HealthTech,India,rep_24,Outbound,13,55.507092983130015,High Risk
+D00954,12500,SaaS,APAC,rep_3,Inbound,109,51.91064981227912,High Risk
+D00970,4581,Ecommerce,Europe,rep_11,Referral,95,55.9136231615305,High Risk
+D00988,7657,SaaS,North America,rep_22,Outbound,44,58.18629720256352,High Risk
+D01006,4059,FinTech,Europe,rep_10,Partner,44,53.19227060137348,High Risk
+D01017,90964,EdTech,India,rep_2,Referral,90,39.33697048850622,Medium Risk
+D01022,11547,Ecommerce,North America,rep_14,Referral,40,63.10022323037388,High Risk
+D01026,15581,FinTech,APAC,rep_15,Outbound,40,60.07304782088525,High Risk
+D01034,69950,HealthTech,India,rep_3,Inbound,81,53.78938953246802,High Risk
+D01035,81909,Ecommerce,APAC,rep_17,Outbound,119,64.25167441925372,High Risk
+D01036,13385,EdTech,North America,rep_15,Outbound,80,55.92279541162695,High Risk
+D01041,37351,Ecommerce,APAC,rep_13,Referral,62,51.62655567683597,High Risk
+D01056,71407,Ecommerce,APAC,rep_18,Outbound,44,62.539593951674775,High Risk
+D01066,6132,SaaS,Europe,rep_24,Referral,17,47.21584566589237,Medium Risk
+D01075,42376,HealthTech,India,rep_16,Inbound,21,47.17856128219498,Medium Risk
+D01081,68139,SaaS,Europe,rep_9,Outbound,118,52.92335674734275,High Risk
+D01086,2640,HealthTech,India,rep_23,Referral,73,51.63197671203661,High Risk
+D01092,9956,FinTech,APAC,rep_11,Inbound,115,51.76690559719162,High Risk
+D01110,14350,EdTech,APAC,rep_13,Referral,66,58.38127486913055,High Risk
+D01117,75583,FinTech,Europe,rep_22,Partner,75,62.59233219613791,High Risk
+D01172,11519,Ecommerce,APAC,rep_8,Outbound,53,59.17132155142758,High Risk
+D01179,3250,FinTech,North America,rep_6,Inbound,98,53.63250621636726,High Risk
+D01189,2233,HealthTech,India,rep_2,Referral,40,59.90628983718226,High Risk
+D01196,21535,EdTech,Europe,rep_16,Referral,108,51.8113497278535,High Risk
+D01205,40898,SaaS,Europe,rep_13,Partner,27,55.52807433357378,High Risk
+D01228,28573,EdTech,North America,rep_19,Referral,97,54.26226132288991,High Risk
+D01232,19938,Ecommerce,India,rep_4,Referral,30,56.307606889699954,High Risk
+D01237,6912,HealthTech,Europe,rep_23,Inbound,94,58.02643231493762,High Risk
+D01241,89119,SaaS,India,rep_23,Outbound,73,53.40471011862849,High Risk
+D01255,46299,Ecommerce,Europe,rep_13,Inbound,39,62.403396878027294,High Risk
+D01259,2288,Ecommerce,India,rep_21,Referral,35,69.57046354493814,High Risk
+D01268,100000,FinTech,North America,rep_24,Inbound,101,32.02451175492251,Medium Risk
+D01271,2970,Ecommerce,APAC,rep_18,Outbound,26,35.641480614639015,Medium Risk
+D01276,16526,FinTech,Europe,rep_6,Partner,39,55.88594453588796,High Risk
+D01286,36254,HealthTech,APAC,rep_7,Outbound,76,65.85683922123111,High Risk
+D01293,76935,SaaS,Europe,rep_5,Inbound,87,50.30132477644991,High Risk
+D01308,76919,HealthTech,APAC,rep_13,Inbound,99,53.78703346459972,High Risk
+D01345,12080,Ecommerce,North America,rep_25,Outbound,16,51.16282014842679,High Risk
+D01353,18879,FinTech,Europe,rep_7,Inbound,68,59.77270391554135,High Risk
+D01355,3846,EdTech,India,rep_2,Outbound,87,53.5058609541071,High Risk
+D01379,4986,SaaS,North America,rep_3,Inbound,11,56.16822014554146,High Risk
+D01402,3793,SaaS,APAC,rep_23,Referral,25,59.88834524492719,High Risk
+D01409,16034,SaaS,North America,rep_10,Partner,31,63.6396552794111,High Risk
+D01411,15744,EdTech,India,rep_10,Outbound,50,63.897462790453915,High Risk
+D01428,11924,Ecommerce,APAC,rep_4,Referral,22,55.379193637595556,High Risk
+D01467,2062,Ecommerce,North America,rep_6,Outbound,27,66.25522708825729,High Risk
+D01469,11532,Ecommerce,APAC,rep_20,Partner,83,56.653806278664895,High Risk
+D01476,41616,FinTech,Europe,rep_3,Inbound,110,58.37488426889652,High Risk
+D01485,92848,EdTech,Europe,rep_9,Referral,57,42.43844021972962,Medium Risk
+D01494,19614,FinTech,North America,rep_5,Referral,74,51.043961672574525,High Risk
+D01513,6917,HealthTech,APAC,rep_10,Referral,77,58.352917050251875,High Risk
+D01531,2643,HealthTech,India,rep_4,Partner,28,58.40467202557507,High Risk
+D01536,6825,SaaS,India,rep_9,Partner,69,64.81445075293269,High Risk
+D01538,16904,HealthTech,India,rep_11,Inbound,21,52.90957330486741,High Risk
+D01558,6907,EdTech,Europe,rep_17,Inbound,21,54.907005526561946,High Risk
+D01598,48130,EdTech,Europe,rep_20,Referral,108,53.07546239470457,High Risk
+D01599,3874,Ecommerce,APAC,rep_7,Partner,9,65.09314365166561,High Risk
+D01606,4057,SaaS,North America,rep_2,Inbound,20,47.52984363615095,Medium Risk
+D01609,19539,SaaS,North America,rep_7,Referral,99,60.665476101932704,High Risk
+D01628,3547,Ecommerce,North America,rep_20,Inbound,114,50.79396586767968,High Risk
+D01634,54711,EdTech,India,rep_1,Partner,85,51.32948669422929,High Risk
+D01636,6445,HealthTech,APAC,rep_19,Referral,87,49.99588856024854,Medium Risk
+D01644,10383,EdTech,India,rep_15,Inbound,58,59.17796799991385,High Risk
+D01672,17304,SaaS,Europe,rep_17,Inbound,75,56.15175915732347,High Risk
+D01684,7767,EdTech,North America,rep_18,Partner,18,56.615330360390736,High Risk
+D01744,4915,HealthTech,Europe,rep_18,Inbound,63,52.66146679229136,High Risk
+D01748,15544,Ecommerce,Europe,rep_23,Referral,60,58.69215499919458,High Risk
+D01754,17353,SaaS,APAC,rep_7,Outbound,98,51.02257191664676,High Risk
+D01759,17742,HealthTech,APAC,rep_14,Inbound,41,56.74640485958652,High Risk
+D01768,8414,HealthTech,Europe,rep_24,Referral,89,60.221487684713125,High Risk
+D01794,94929,FinTech,North America,rep_7,Referral,88,61.537551560996484,High Risk
+D01811,4914,Ecommerce,APAC,rep_24,Partner,10,51.04981814967147,High Risk
+D01826,15578,EdTech,India,rep_11,Outbound,40,55.83392598829543,High Risk
+D01835,2012,EdTech,APAC,rep_10,Inbound,31,73.31124348744434,Critical Risk
+D01846,16183,SaaS,North America,rep_4,Partner,62,60.163142054242705,High Risk
+D01862,7200,FinTech,Europe,rep_8,Referral,81,51.073672351135635,High Risk
+D01870,13625,SaaS,North America,rep_18,Partner,65,64.5822495746063,High Risk
+D01874,59992,HealthTech,India,rep_18,Inbound,92,61.338610546631635,High Risk
+D01912,2349,HealthTech,India,rep_10,Referral,71,58.946212272623974,High Risk
+D01916,83877,EdTech,North America,rep_12,Referral,56,58.7942491532768,High Risk
+D01925,15433,EdTech,Europe,rep_15,Referral,113,56.45231035246863,High Risk
+D01943,10158,Ecommerce,North America,rep_3,Partner,35,63.481336356627025,High Risk
+D01964,3214,HealthTech,APAC,rep_18,Inbound,58,53.161102085297344,High Risk
+D01985,2358,HealthTech,APAC,rep_10,Outbound,19,59.062780612898216,High Risk
+D01991,4987,EdTech,Europe,rep_15,Outbound,74,48.79013323573479,Medium Risk
+D01994,98082,Ecommerce,India,rep_9,Outbound,26,34.64448394857196,Medium Risk
+D02001,7692,EdTech,APAC,rep_5,Inbound,34,59.99177795922531,High Risk
+D02032,17059,Ecommerce,APAC,rep_19,Partner,28,53.57371599466819,High Risk
+D02056,16737,EdTech,India,rep_6,Referral,51,51.913483952172236,High Risk
+D02069,7042,HealthTech,North America,rep_23,Partner,115,65.72106216612251,High Risk
+D02077,14809,Ecommerce,Europe,rep_5,Inbound,90,59.59675461425734,High Risk
+D02109,12075,Ecommerce,India,rep_23,Outbound,98,61.10561968765052,High Risk
+D02118,7989,FinTech,Europe,rep_4,Referral,11,55.82612645666525,High Risk
+D02120,18930,SaaS,Europe,rep_11,Outbound,92,58.08768712897074,High Risk
+D02134,4335,EdTech,APAC,rep_23,Inbound,67,52.742189860106556,High Risk
+D02145,7561,FinTech,APAC,rep_25,Inbound,75,56.13331899458813,High Risk
+D02146,11995,Ecommerce,India,rep_16,Referral,86,56.116873455884345,High Risk
+D02164,15039,HealthTech,Europe,rep_18,Referral,98,62.17643391851566,High Risk
+D02183,17809,SaaS,APAC,rep_19,Inbound,83,60.60537603635613,High Risk
+D02184,11400,HealthTech,Europe,rep_10,Outbound,43,61.64432742177547,High Risk
+D02188,72126,SaaS,India,rep_24,Outbound,120,58.88853628994887,High Risk
+D02199,8325,SaaS,APAC,rep_2,Outbound,12,53.81050180511981,High Risk
+D02202,15978,SaaS,APAC,rep_5,Outbound,115,59.33048771991072,High Risk
+D02209,71961,FinTech,India,rep_9,Outbound,84,51.34787887746246,High Risk
+D02212,19163,FinTech,India,rep_17,Outbound,82,58.55656495374155,High Risk
+D02225,11129,Ecommerce,India,rep_1,Inbound,73,57.42912625438088,High Risk
+D02231,12957,EdTech,APAC,rep_17,Referral,119,55.80130382601958,High Risk
+D02255,17554,Ecommerce,India,rep_15,Inbound,95,55.72835634936861,High Risk
+D02288,55865,FinTech,APAC,rep_10,Inbound,68,65.78091238869418,High Risk
+D02291,24322,SaaS,North America,rep_20,Partner,60,59.73137386940214,High Risk
+D02295,80808,SaaS,North America,rep_6,Inbound,111,61.332310661380575,High Risk
+D02297,5117,HealthTech,North America,rep_3,Referral,72,54.986146083278186,High Risk
+D02306,11645,Ecommerce,Europe,rep_21,Inbound,90,61.14731469349635,High Risk
+D02320,26401,HealthTech,India,rep_12,Referral,60,58.041367254720754,High Risk
+D02339,18075,SaaS,North America,rep_22,Referral,38,63.5790172879321,High Risk
+D02354,7506,Ecommerce,Europe,rep_14,Outbound,21,49.71042715516511,Medium Risk
+D02368,18723,HealthTech,India,rep_21,Referral,49,55.871041683602044,High Risk
+D02391,11615,HealthTech,APAC,rep_17,Inbound,78,57.437977259287045,High Risk
+D02414,2322,SaaS,Europe,rep_23,Partner,46,62.82892537422694,High Risk
+D02444,7326,HealthTech,India,rep_20,Partner,18,56.69072973672213,High Risk
+D02461,31266,Ecommerce,North America,rep_8,Partner,8,49.070909042681016,Medium Risk
+D02479,78824,EdTech,Europe,rep_2,Inbound,80,54.77319688321089,High Risk
+D02488,3784,EdTech,North America,rep_25,Partner,42,66.08458264727577,High Risk
+D02515,5549,Ecommerce,North America,rep_20,Inbound,117,57.68993559555504,High Risk
+D02548,19173,Ecommerce,APAC,rep_16,Outbound,52,59.46563850388882,High Risk
+D02553,4548,FinTech,North America,rep_23,Inbound,19,54.51779509042186,High Risk
+D02579,39562,SaaS,Europe,rep_12,Outbound,109,45.661905167094034,Medium Risk
+D02588,82311,EdTech,Europe,rep_6,Partner,11,54.88113239374029,High Risk
+D02603,20350,SaaS,North America,rep_25,Referral,59,56.54916824142992,High Risk
+D02609,83698,Ecommerce,APAC,rep_10,Inbound,106,64.3968965185384,High Risk
+D02621,15860,FinTech,APAC,rep_25,Inbound,93,59.29696064062897,High Risk
+D02626,14460,EdTech,India,rep_21,Outbound,49,61.13683037834012,High Risk
+D02632,4384,Ecommerce,India,rep_1,Inbound,106,44.356732410075935,Medium Risk
+D02652,12951,SaaS,APAC,rep_2,Referral,50,55.1445273754875,High Risk
+D02664,53893,FinTech,India,rep_22,Partner,115,69.22135477173538,High Risk
+D02711,65782,EdTech,APAC,rep_24,Referral,38,58.15569847729141,High Risk
+D02717,83647,SaaS,North America,rep_17,Outbound,13,61.768276348087745,High Risk
+D02726,31718,Ecommerce,Europe,rep_21,Outbound,58,50.56737675309761,High Risk
+D02729,82978,FinTech,Europe,rep_1,Inbound,60,52.569159637724994,High Risk
+D02739,89101,EdTech,India,rep_25,Inbound,30,44.225388194035155,Medium Risk
+D02753,14989,SaaS,North America,rep_3,Referral,56,54.699840283655796,High Risk
+D02766,70858,FinTech,APAC,rep_22,Inbound,86,56.8668897991929,High Risk
+D02781,28876,HealthTech,Europe,rep_24,Outbound,38,54.779845733227326,High Risk
+D02803,10031,SaaS,India,rep_13,Partner,60,61.86433707125249,High Risk
+D02825,6763,EdTech,APAC,rep_21,Outbound,12,50.4936233619031,High Risk
+D02829,84068,Ecommerce,North America,rep_2,Referral,34,56.12367917845129,High Risk
+D02852,8318,EdTech,APAC,rep_5,Partner,79,56.81076003431515,High Risk
+D02878,10421,SaaS,India,rep_12,Outbound,104,57.527623574105704,High Risk
+D02883,79637,Ecommerce,India,rep_17,Partner,114,51.79550931406776,High Risk
+D02889,2836,EdTech,Europe,rep_15,Inbound,47,61.40557191034064,High Risk
+D02891,3540,SaaS,North America,rep_7,Outbound,118,50.4222989200942,High Risk
+D02930,12921,HealthTech,North America,rep_1,Inbound,87,58.96586653288976,High Risk
+D02936,17728,Ecommerce,India,rep_20,Outbound,66,55.57175348026237,High Risk
+D02937,4030,FinTech,APAC,rep_16,Inbound,98,47.82374622006029,Medium Risk
+D02952,5388,HealthTech,Europe,rep_25,Referral,18,51.838622071481154,High Risk
+D02956,56057,EdTech,Europe,rep_18,Referral,103,61.31267912981115,High Risk
+D02959,15798,EdTech,Europe,rep_16,Inbound,17,51.110748161505484,High Risk
+D02974,15526,SaaS,Europe,rep_13,Inbound,80,53.4363345748208,High Risk
+D02975,5869,HealthTech,India,rep_2,Inbound,8,46.07484857394701,Medium Risk
+D02998,6357,EdTech,North America,rep_19,Inbound,79,52.152233764697264,High Risk
+D03031,3884,HealthTech,APAC,rep_2,Referral,92,53.53811482095938,High Risk
+D03033,34121,FinTech,APAC,rep_18,Inbound,9,62.55598242562701,High Risk
+D03044,19061,Ecommerce,APAC,rep_4,Outbound,77,61.63746629989528,High Risk
+D03045,7601,Ecommerce,Europe,rep_12,Inbound,70,61.21861367945639,High Risk
+D03056,4546,EdTech,North America,rep_7,Referral,87,51.02798820686706,High Risk
+D03083,2225,SaaS,North America,rep_8,Partner,58,45.047755261286504,Medium Risk
+D03102,6763,Ecommerce,APAC,rep_13,Referral,75,58.17691146674776,High Risk
+D03122,9530,EdTech,Europe,rep_1,Inbound,87,59.26638903755554,High Risk
+D03132,66176,EdTech,North America,rep_12,Outbound,59,54.847690515335536,High Risk
+D03160,5156,FinTech,Europe,rep_11,Referral,109,49.19792068003478,Medium Risk
+D03185,9823,SaaS,Europe,rep_6,Referral,102,51.48721661809326,High Risk
+D03193,9987,FinTech,North America,rep_1,Outbound,87,59.359084747159464,High Risk
+D03199,11353,SaaS,India,rep_24,Outbound,111,62.83019481543104,High Risk
+D03217,2011,SaaS,India,rep_18,Inbound,81,35.474631178209464,Medium Risk
+D03220,7628,EdTech,APAC,rep_11,Outbound,114,57.23924460755604,High Risk
+D03256,7188,Ecommerce,North America,rep_3,Outbound,93,51.65041814390497,High Risk
+D03263,10103,EdTech,India,rep_21,Outbound,116,56.01195236182473,High Risk
+D03271,92813,SaaS,India,rep_16,Inbound,99,36.3702844114947,Medium Risk
+D03275,27149,FinTech,APAC,rep_21,Referral,60,56.844707887547116,High Risk
+D03286,57029,HealthTech,North America,rep_4,Referral,80,53.78957974408722,High Risk
+D03290,10022,FinTech,North America,rep_4,Inbound,90,57.744377397177274,High Risk
+D03318,4920,HealthTech,North America,rep_12,Outbound,70,57.8488427742928,High Risk
+D03342,36385,Ecommerce,APAC,rep_11,Referral,88,49.019892810961416,Medium Risk
+D03343,16164,Ecommerce,APAC,rep_1,Inbound,99,62.84483401642176,High Risk
+D03344,4027,SaaS,North America,rep_24,Referral,42,64.09526360437205,High Risk
+D03346,19597,EdTech,APAC,rep_24,Referral,17,56.98024648064527,High Risk
+D03369,7410,EdTech,North America,rep_4,Inbound,8,60.2252669762642,High Risk
+D03392,58887,HealthTech,APAC,rep_24,Referral,117,57.87933191330005,High Risk
+D03451,9269,SaaS,APAC,rep_9,Partner,44,61.193889787914124,High Risk
+D03465,99234,EdTech,Europe,rep_17,Inbound,66,48.77914577909907,Medium Risk
+D03499,63753,SaaS,APAC,rep_3,Referral,84,48.87267011576681,Medium Risk
+D03520,48454,HealthTech,North America,rep_16,Outbound,8,68.0212869188197,High Risk
+D03523,63190,FinTech,APAC,rep_5,Inbound,112,52.181437206311124,High Risk
+D03526,4292,Ecommerce,North America,rep_22,Outbound,48,60.05965127746386,High Risk
+D03558,4852,FinTech,Europe,rep_11,Inbound,7,51.444104712029436,High Risk
+D03577,4607,FinTech,North America,rep_9,Partner,76,64.221144580546,High Risk
+D03603,5370,FinTech,APAC,rep_21,Partner,19,44.09268972184368,Medium Risk
+D03616,9523,Ecommerce,APAC,rep_20,Partner,37,63.516910566868525,High Risk
+D03665,7175,SaaS,APAC,rep_19,Partner,117,58.392928821804425,High Risk
+D03676,7705,HealthTech,North America,rep_6,Referral,114,65.84450897640646,High Risk
+D03677,17389,Ecommerce,APAC,rep_21,Referral,91,58.29550362802549,High Risk
+D03696,4828,HealthTech,APAC,rep_15,Outbound,12,56.89291491458106,High Risk
+D03730,17751,Ecommerce,India,rep_19,Referral,89,56.8969499055204,High Risk
+D03769,19262,Ecommerce,North America,rep_24,Referral,47,59.448251324339665,High Risk
+D03776,2717,FinTech,APAC,rep_9,Referral,105,46.98709123560109,Medium Risk
+D03779,6939,SaaS,India,rep_8,Outbound,61,49.494839604329314,Medium Risk
+D03781,77059,EdTech,Europe,rep_7,Outbound,104,68.3362551703113,High Risk
+D03823,4114,SaaS,APAC,rep_10,Partner,21,46.87926912412855,Medium Risk
+D03830,12590,FinTech,North America,rep_10,Referral,44,59.176570922880124,High Risk
+D03846,3312,Ecommerce,India,rep_11,Outbound,77,44.4960767869095,Medium Risk
+D03879,2272,Ecommerce,North America,rep_21,Inbound,87,52.53197670553364,High Risk
+D03880,15100,FinTech,North America,rep_9,Inbound,39,58.88008692487765,High Risk
+D03892,50753,EdTech,India,rep_21,Inbound,104,49.582737142059386,Medium Risk
+D03895,15234,Ecommerce,North America,rep_14,Inbound,75,60.46789244004622,High Risk
+D03898,17686,EdTech,APAC,rep_22,Referral,90,58.580983810700424,High Risk
+D03905,7284,Ecommerce,North America,rep_14,Outbound,117,57.062367198681194,High Risk
+D03912,56530,SaaS,North America,rep_4,Referral,62,52.713820988653296,High Risk
+D03928,2750,FinTech,India,rep_24,Outbound,35,64.99480477226207,High Risk
+D03938,3305,SaaS,North America,rep_10,Inbound,20,64.5658814164209,High Risk
+D03942,77442,Ecommerce,Europe,rep_22,Partner,12,46.63765695562175,Medium Risk
+D03943,5639,Ecommerce,North America,rep_3,Outbound,86,65.72574758093283,High Risk
+D03944,5130,FinTech,North America,rep_21,Inbound,7,43.271701396423666,Medium Risk
+D03958,70752,SaaS,India,rep_1,Referral,42,60.622558339883604,High Risk
+D03965,13370,HealthTech,North America,rep_16,Partner,22,58.99220298999226,High Risk
+D03970,19684,FinTech,APAC,rep_21,Partner,44,53.00177217866177,High Risk
+D03983,99784,EdTech,India,rep_6,Inbound,12,40.26524074350905,Medium Risk
+D04009,59074,EdTech,Europe,rep_1,Outbound,58,52.49845821274863,High Risk
+D04041,10795,HealthTech,India,rep_22,Referral,56,60.2476494447018,High Risk
+D04054,4739,HealthTech,APAC,rep_11,Inbound,55,60.954098433840024,High Risk
+D04056,2413,FinTech,Europe,rep_20,Referral,14,63.13450612695624,High Risk
+D04070,18194,FinTech,North America,rep_20,Referral,97,55.30520191884951,High Risk
+D04081,6470,Ecommerce,APAC,rep_7,Outbound,20,50.281692746830984,High Risk
+D04087,7930,EdTech,APAC,rep_2,Outbound,71,55.163460255983395,High Risk
+D04088,11323,FinTech,North America,rep_12,Partner,93,52.32358649874358,High Risk
+D04090,7706,HealthTech,India,rep_3,Referral,96,61.677960688242095,High Risk
+D04110,21269,FinTech,North America,rep_8,Inbound,57,50.895379851839564,High Risk
+D04113,30795,FinTech,India,rep_13,Outbound,103,54.77269425797543,High Risk
+D04117,7973,HealthTech,North America,rep_22,Referral,53,65.98938885666428,High Risk
+D04130,22008,HealthTech,North America,rep_2,Partner,44,60.35379540163864,High Risk
+D04199,7634,HealthTech,North America,rep_22,Partner,9,69.99080601327378,High Risk
+D04200,5600,HealthTech,APAC,rep_16,Referral,98,61.88199288699021,High Risk
+D04202,29660,FinTech,APAC,rep_4,Outbound,74,53.61567149337756,High Risk
+D04231,4782,Ecommerce,Europe,rep_21,Referral,49,57.980613582701366,High Risk
+D04239,4224,Ecommerce,Europe,rep_6,Partner,11,52.88014232028586,High Risk
+D04245,40626,Ecommerce,India,rep_22,Outbound,64,64.48787997157456,High Risk
+D04286,64705,HealthTech,APAC,rep_25,Referral,102,54.304405529137746,High Risk
+D04298,17912,EdTech,North America,rep_24,Outbound,58,49.852019545908036,Medium Risk
+D04321,2302,Ecommerce,APAC,rep_21,Inbound,107,65.07574317519106,High Risk
+D04329,6837,Ecommerce,APAC,rep_21,Partner,15,54.84901146964892,High Risk
+D04331,2713,Ecommerce,India,rep_23,Referral,120,72.24416464679652,Critical Risk
+D04368,7949,FinTech,APAC,rep_5,Outbound,65,52.61268837589124,High Risk
+D04383,3626,EdTech,Europe,rep_11,Referral,105,53.229698961951996,High Risk
+D04399,3638,Ecommerce,Europe,rep_1,Inbound,96,52.963441424340516,High Risk
+D04405,12269,Ecommerce,India,rep_18,Partner,12,53.879804193707756,High Risk
+D04425,4040,HealthTech,APAC,rep_5,Referral,7,43.554461774983686,Medium Risk
+D04431,5684,SaaS,North America,rep_3,Outbound,31,61.38266686914476,High Risk
+D04438,48643,FinTech,APAC,rep_9,Partner,60,51.34172493368436,High Risk
+D04446,78102,Ecommerce,APAC,rep_15,Inbound,93,49.14051835864636,Medium Risk
+D04458,13434,EdTech,Europe,rep_13,Inbound,81,53.97036865682687,High Risk
+D04473,5642,Ecommerce,India,rep_1,Referral,79,51.15516286153191,High Risk
+D04489,7389,EdTech,North America,rep_13,Referral,120,61.0714635065986,High Risk
+D04491,6258,HealthTech,India,rep_22,Referral,16,48.142892413299506,Medium Risk
+D04506,4224,Ecommerce,North America,rep_18,Inbound,53,52.72342025681343,High Risk
+D04530,2324,SaaS,APAC,rep_17,Inbound,59,60.98497580874056,High Risk
+D04575,6590,EdTech,Europe,rep_3,Inbound,7,56.54404652894351,High Risk
+D04585,75849,EdTech,India,rep_24,Outbound,20,43.42420159357953,Medium Risk
+D04588,96060,FinTech,India,rep_11,Referral,13,59.69316813973764,High Risk
+D04603,79333,HealthTech,India,rep_16,Inbound,8,39.04523544677004,Medium Risk
+D04613,67810,SaaS,India,rep_4,Referral,117,51.37650551731389,High Risk
+D04632,10614,HealthTech,Europe,rep_14,Inbound,19,54.15757386662252,High Risk
+D04649,65563,SaaS,APAC,rep_21,Partner,33,45.9802192923208,Medium Risk
+D04659,14193,SaaS,India,rep_10,Referral,114,61.066061085906775,High Risk
+D04665,62234,FinTech,India,rep_21,Partner,13,47.79825511270649,Medium Risk
+D04673,53007,FinTech,Europe,rep_14,Referral,54,52.55221889450622,High Risk
+D04677,6225,Ecommerce,APAC,rep_8,Outbound,7,43.057293615976135,Medium Risk
+D04692,12732,FinTech,India,rep_5,Referral,25,55.376811757837174,High Risk
+D04700,7527,SaaS,India,rep_8,Outbound,68,50.81178919479683,High Risk
+D04715,2388,SaaS,Europe,rep_3,Referral,56,54.648760241833926,High Risk
+D04739,4035,FinTech,APAC,rep_15,Referral,31,61.77943397158796,High Risk
+D04747,9300,SaaS,Europe,rep_6,Outbound,21,45.715427719908334,Medium Risk
+D04756,10861,HealthTech,India,rep_21,Partner,64,68.20442725127857,High Risk
+D04757,53687,Ecommerce,APAC,rep_4,Partner,85,55.889068297211196,High Risk
+D04758,18452,EdTech,India,rep_14,Inbound,39,60.86597104966926,High Risk
+D04774,5897,Ecommerce,APAC,rep_6,Outbound,83,55.90837689803516,High Risk
+D04783,72469,Ecommerce,Europe,rep_15,Outbound,91,51.33465885332801,High Risk
+D04815,13337,EdTech,APAC,rep_14,Partner,88,60.27347269470964,High Risk
+D04823,7600,FinTech,North America,rep_16,Outbound,19,48.752896579665915,Medium Risk
+D04871,66518,SaaS,India,rep_1,Outbound,36,62.73428951209146,High Risk
+D04885,37345,SaaS,India,rep_17,Outbound,74,55.19852955556861,High Risk
+D04893,14104,SaaS,Europe,rep_16,Outbound,72,54.283297426903246,High Risk
+D04901,9897,FinTech,APAC,rep_2,Outbound,96,62.60339490168341,High Risk
+D04918,8785,EdTech,APAC,rep_4,Outbound,105,58.52703469593189,High Risk
+D04926,60859,EdTech,APAC,rep_9,Outbound,83,53.4790953027563,High Risk
+D04928,3728,Ecommerce,Europe,rep_21,Outbound,72,58.12610877732502,High Risk
+D04937,90486,SaaS,APAC,rep_11,Outbound,66,51.0131912678389,High Risk
+D04959,5247,HealthTech,Europe,rep_7,Inbound,48,58.47863684396258,High Risk
+D04962,67665,HealthTech,North America,rep_24,Partner,66,53.987065155097966,High Risk

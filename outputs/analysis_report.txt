@@ -1,0 +1,29 @@
+================================================================================
+SKYGENI SALES INTELLIGENCE ANALYSIS REPORT
+================================================================================
+
+Generated: 2026-02-11 18:45:53
+Dataset: 5,000 deals
+
+--------------------------------------------------------------------------------
+KEY FINDINGS
+--------------------------------------------------------------------------------
+
+1. Win Rate: 45.26%
+2. Average Deal: $26,286.49
+3. Average Cycle: 63.8 days
+
+--------------------------------------------------------------------------------
+CRITICAL INSIGHT: Sales Velocity Crisis
+--------------------------------------------------------------------------------
+Sales cycles have increased 35% in recent quarters
+This is the primary driver of performance degradation
+
+--------------------------------------------------------------------------------
+RECOMMENDED ACTIONS
+--------------------------------------------------------------------------------
+1. Review critical risk deals immediately ($1.77M at stake)
+2. Investigate 35% sales cycle increase
+3. Re-invest in high-velocity channels (Inbound)
+4. Implement fast-track process for <30 day deals
+================================================================================
